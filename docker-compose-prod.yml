@@ -4,4 +4,4 @@ services:
     image: rinz5/234-deploylab-frontend-prod:latest
     pull_policy: always
     ports:
-      - "8086:80"
+      - "9999:80"
